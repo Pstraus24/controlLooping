@@ -45,7 +45,7 @@ public class Main {
         }
 
 
-        System.out.println("The color you have chosen is: " + colour);
+        System.out.println("Your car will be painted: " + colour);
 
 
 
